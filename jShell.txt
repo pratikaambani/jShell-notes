@@ -5,3 +5,27 @@ Java Brains - Koushik
 URL:
 https://www.youtube.com/watch?v=mdafxtP4RZU
 
+
+
+01 - Introduction
+-----------------
+
+REPL: Read Evaluate Print Loop
+
+
+
+02 - Setup and run
+-----------------
+
+Install Java 10
+
+Location of jShell: C:\program files\Java\jdk-10.0.2\bin
+
+C:\program files\Java\jdk-10.0.2\bin>jshell.exe
+
+
+jshell> 2+2
+$1 ==> 4
+
+
+
